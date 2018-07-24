@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 import "log"
-import "github.com/ellenkorbes/cockroachdb-dojo/parte1/conectar"
+import "github.com/wwgobr/cockroachdb-dojo/parte1/conectar"
 
 const pesquisa = "Marcelinho"
 

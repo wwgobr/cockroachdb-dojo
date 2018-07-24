@@ -1,7 +1,7 @@
 package main
 
 import "log"
-import "github.com/ellenkorbes/cockroachdb-dojo/parte1/conectar"
+import "github.com/wwgobr/cockroachdb-dojo/parte1/conectar"
 import "database/sql"
 
 // Esta função cria uma tabela no banco de dados. Precisamos executá-la somente uma vez.

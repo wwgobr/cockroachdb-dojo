@@ -1,7 +1,7 @@
 package main
 
 import "log"
-import "github.com/ellenkorbes/cockroachdb-dojo/parte1/conectar"
+import "github.com/wwgobr/cockroachdb-dojo/parte1/conectar"
 
 const nome = "Marcelinho"
 const idade = 6
